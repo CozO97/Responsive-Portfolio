@@ -265,6 +265,7 @@ input[type=submit] {
         width: 500px;
         padding: 30px;
         margin-left: -30px;
+        margin-top: 0px;
     }
     .auth-image {
         width: 100%;
@@ -306,10 +307,10 @@ input[type=submit] {
     .sidebar {
         float: right;
         width: 300px;
-        height: 210px;
+        height: 200px;
         padding: 13px;
         margin-left: 30px;
-        margin-top: -43px;
+        margin-top: -30px;
     }
     .social {
         background-size: 65px;
